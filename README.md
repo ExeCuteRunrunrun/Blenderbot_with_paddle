@@ -4,11 +4,11 @@ Paddle implementation of Blenderbot, [Recipes for building an open-domain chatbo
 # Goal:
 1. Reimplement Blenderbot and Blenderbot Small
 2. Convert models from pytorch to paddle 
-  - 90M; 
-  - 2.7B; 
-  - 2.7B distilled to 1.4B; 
-  - 2.7B distilled to 360M
+    - 90M; 
+    - 2.7B; 
+    - 2.7B distilled to 1.4B; 
+    - 2.7B distilled to 360M
 3. BlenderbotForConditionalGeneration model & BlenderbotSmallForConditionalGeneration model inference
-  - 90M
-  - 2.7B distilled to 360M
+    - 90M
+    - 2.7B distilled to 360M
 4. Submit PR to PaddleNLP
